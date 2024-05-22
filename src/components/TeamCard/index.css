@@ -1,0 +1,34 @@
+.list-container {
+  list-style-type: none;
+}
+
+.card {
+  display: flex;
+  padding: 30px;
+  align-items: center;
+  background-color: #ffffff33;
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  height: 170px;
+  margin-bottom: 25px;
+  width: 500px;
+  margin-right: 25px;
+}
+
+.image {
+  height: 100px;
+  width: 100px;
+  margin-right: 15px;
+}
+
+.name {
+  color: #ffffff;
+  font-size: 35px;
+  font-family: bree serif;
+  font-weight: bold;
+}
+
+.link-item {
+  text-decoration: none;
+  width: 45%;
+}
